@@ -8,10 +8,12 @@
 También he sobre  arquitecturas de contenedores mediante Docker y Kubernetes y quiero llegar a dominar DevOps en un futuro.
 Mi lenguaje preferido es JavaScript y sus diversos frameworks para el desarrollo de aplicaciones clientes y del lado servidor como react.js , express, gatsby entre otras. También se dé php, laravel, python y java, pero mi punto más fuerte es el desarrollando con JavaSript, si bien me gusta el desarrollo con JavaScript no me caso solo con una única tecnología o lenguaje de  programación⏳.
 
+### Sitios de interes
+- :point_right: [Linkedin](https://www.linkedin.com/in/deiver-guerra-carrascal-0a3784176/)
+- :point_right: [Portafolio](https://ingdeiver.github.io/portafolio)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IngDeiver&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngDeiver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Sitios de interes
-- :point_right: [Linkedin](https://www.linkedin.com/in/deiver-guerra-carrascal-0a3784176/)
-- :point_right: [Portafolio](https://ingdeiver.github.io/portafolio)
+
