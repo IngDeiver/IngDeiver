@@ -14,5 +14,5 @@ Mi lenguaje preferido es JavaScript y sus diversos frameworks para el desarrollo
 
 
 ### Sitios de interes
-- :point_right: [Linkedin](https://www.linkedin.com/in/deiver-guerra-carrascal-0a3784176/)
+- :point_right: [Linkedin](www.linkedin.com/in/ingenDeiver)
 - :point_right: [Portafolio](https://ingdeiver.github.io/portafolio)
