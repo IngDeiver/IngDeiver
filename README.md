@@ -5,7 +5,10 @@
 </div>
 
 
-```Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet condimentum velit. Donec vehicula tortor purus, id aliquet lorem semper finibus. Vestibulum posuere id magna consequat faucibus. Praesent dapibus lorem nec dapibus fermentum. Nulla sed leo sit amet lectus tincidunt aliquam. Etiam fermentum consequat enim, quis luctus mauris sagittis vitae. Nunc gravida, justo ac molestie sollicitudin, nibh eros ornare nunc, sit amet lacinia dui ipsum ut dui. Nunc congue et ex id commodo. Vivamus mi massa, tempus a consequat non, viverra quis sapien. In hac habitasse platea dictumst. Nullam ipsum dui, semper id massa eget.```
+Hola!, me llamo Deiver, actualemente soy estudiante de ingeniería de sistemas e informática, soy Colombiano, tengo 21 años y me apasiona el desarrollo de software en general.
+Me gusta aprender de forma autodidacta y untarme un poco de todo, me especialiad es el desarrollo web pero ademas  me gusta el desarrollo movíl, desarrllo tanto backend como frontend.
+Mi lenguje preferido es JavaScript y sus diversos frameworks para el desarrollo de aplicaciones clientes y del lado servidor como react.js , express, gatsby entre otras. Tambien se de php y laravel, si es verdad me siento mas comodo desarrollando con JavaSript tambien me gusta conocer diferentes tecnologias para usar cada una de ellas 
+en proyectos donde estas mejor se ajusten.
 
 
 ### Sitios de interes
