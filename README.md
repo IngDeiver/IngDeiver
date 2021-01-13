@@ -14,6 +14,6 @@
 
 ***
 
-### Sitios de interes
+### Sitios de interés
 - :point_right: [Linkedin](https://www.linkedin.com/in/ingenDeiver/)
 - :point_right: [Portafolio](https://ingdeiver.github.io/portafolio)
