@@ -4,7 +4,7 @@
   <img align="right" width="40%" height="40%" src="Logo.png">
 </div>
 
-¡Hola!, me llamo Deiver, actualmente soy estudiante de ingeniería de sistemas e informática, soy colombiano, tengo 21 años y me apasiona el desarrollo de software 💻. Me gusta aprender de forma autodidacta y untarme un poco de todo 📚, mi especialidad es el desarrollo web, pero además me gusta el desarrollo móvil 📱, desarrollo desde backend hasta frontend. También sé un poco sobre arquitecturas de contenedores mediante Docker y quiero llegar a dominar DevOps en un futuro. Mi lenguaje preferido es JavaScript y sus diversos frameworks para el desarrollo de aplicaciones clientes y del lado servidor como react.js, gatsby, express entre otras. También se un poco dé php, laravel, Python y java, pero mi punto más fuerte es el desarrollo con JavaScript, si bien me gusta el desarrollo con este lenguaje no me caso con una única tecnología o lenguaje de programación⏳
+¡Hola!, me llamo Deiver, soy un colombiano de 21 años de edad, actualmente estudio ingeniería de sistemas e informática, me apasiona el desarrollo de software y aprender de forma autodidacta💻, mi especialidad es el desarrollo web backend y frontend con JavaScript, además me gusta el desarrollo móvil 📱, php y laravel, también sé un poco sobre contenedores mediante Docker y quiero llegar a dominar DevOps en un futuro. Me gustaría trabajar para una empresa donde nuestro trabajo sea valorado y se me permita seguir mejorando mis habilidades. 
 
 ***
 
