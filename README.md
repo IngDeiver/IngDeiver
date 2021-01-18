@@ -1,10 +1,10 @@
 # console.log("Hello word! 👋")
 
 <div>
-  <img align="right" width="40%" height="40%" src="Logo.png">
+  <img align="right" width="25%" height="25%" src="Logo.png">
 </div>
 
-¡Hola!, me llamo Deiver, soy un colombiano de 21 años de edad, actualmente estudio ingeniería de sistemas e informática, me apasiona el desarrollo de software y aprender de forma autodidacta💻, mi especialidad es el desarrollo web backend y frontend con JavaScript, además me gusta el desarrollo móvil 📱, php y laravel, también sé un poco sobre contenedores mediante Docker y quiero llegar a dominar DevOps en un futuro. Me gustaría trabajar para una empresa donde nuestro trabajo sea valorado y se me permita seguir mejorando mis habilidades. 
+¡Hola!, me llamo Deiver, soy un colombiano de 21 años de edad, actualmente estudio ingeniería de sistemas e informática, me apasiona el desarrollo de software y aprender de forma autodidacta 💻, mi especialidad es el desarrollo web backend y frontend con JavaScript, además me gusta el desarrollo móvil 📱, php y laravel. También sé un poco sobre contenedores mediante Docker y quiero llegar a dominar DevOps en un futuro. Me gustaría trabajar para una empresa donde nuestro trabajo sea valorado y se me permita seguir mejorando mis habilidades. 
 
 ***
 
