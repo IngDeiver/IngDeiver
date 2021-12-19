@@ -4,7 +4,7 @@
   <img align="right" width="25%" height="25%" src="Logo.png">
 </div>
 
-¡Hola!, me llamo Deiver, soy ingeniero de sistemas e informática de la UPB Bucaramanga, me apasiona el desarrollo de software y aprender de forma autodidacta💻, mi especialidad es el desarrollo backend, frontend y móvil con JavaScript. Quiero llegar a dominar DevOps y Scrum en un futuro. Me gustaría trabajar para una empresa donde mi trabajo sea valorado y pueda seguir mejorando mis habilidades.
+Mi nombre es Deiver, soy Ingeniero de sistemas e informática de la Universidad Pontificia Bolivariana, me apasiona el desarrollo de software y aprender de forma autodidacta , mi especialidad es el desarrollo backend con NodeJS y tengo conocimientos en Java, php, frontend, frameworks populares de JavaScript como ReactJS y desarrollo móvil. Me gustaría trabajar para una empresa donde pueda seguir mejorando mis habilidades y crecer profesionalmente.
 
 ***
 
